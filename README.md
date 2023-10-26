@@ -3,7 +3,7 @@
 
 ### Даны две таблицы:
 **t_order**	
-order_id	 - номер чека
+order_id	 - номер чека<br> 
 accepted_at	 - дата и время чека
 product_id	 - id товара
 quantity	 - кол-во товара в чеке
