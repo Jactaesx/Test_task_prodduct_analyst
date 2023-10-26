@@ -2,19 +2,19 @@
 
 
 ### Даны две таблицы:
-**t_order**	
+**t_order**<br>	
 order_id	 - номер чека<br> 
-accepted_at	 - дата и время чека
-product_id	 - id товара
-quantity	 - кол-во товара в чеке
-regular_price	 - регулярная цена
-price	 - текущая цена
-cost_price	 - закупочная цена
+accepted_at	 - дата и время чека<br>	
+product_id	 - id товара<br>	
+quantity	 - кол-во товара в чеке<br>	
+regular_price	 - регулярная цена<br>	
+price	 - текущая цена<br>	
+cost_price	 - закупочная цена<br>	
 
-**t_products**	
-product_id	 - id товара
-level1	 - наименование категории
-name	 - наименование позиции
+**t_products**<br>		
+product_id	 - id товара<br>	
+level1	 - наименование категории<br>	
+name	 - наименование позиции<br>	
 
 
 ## Необходимо найти следующее:
